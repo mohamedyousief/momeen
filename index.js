@@ -18,6 +18,12 @@ const tyoing=()=>{
     setTimeout(()=>{
         text.innerHTML="digital markating"
     },8000)
+    setTimeout(()=>{
+        text.innerHTML="and"
+    },12000)
+    setTimeout(()=>{
+        text.innerHTML="courses"
+    },16000)
 }
 tyoing()
-setInterval(tyoing,12000)
+setInterval(tyoing,20000)
