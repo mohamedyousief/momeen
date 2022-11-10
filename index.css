@@ -263,6 +263,9 @@ iframe{
         justify-content: center;
         gap: 10px;
     }
+    .contai .text{
+        font-size: 30px;
+    }
     .contact .text{
         margin: auto;
         font-size: 20px;
@@ -409,7 +412,7 @@ b ul li{
     flex-wrap: wrap;
 }
 .contai .text{
-font-size: 50px;
+font-size: 30px;
 color: var(--pink);
 text-transform: capitalize;
 position: relative;
